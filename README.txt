@@ -21,7 +21,7 @@ The contents of the dataSet output.txt can be produced using the run_analysis() 
 
 ##DataSet creation
 Use function run_analysis()
-	run_analysis() or var <- run_analysis()
+	example: var <- run_analysis()
 
 ## run_analysis.R
 This R file contains the main function run_analysis() and several helper functions.
