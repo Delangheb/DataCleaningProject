@@ -19,9 +19,9 @@ The contents of the dataSet output.txt can be produced using the run_analysis() 
 		
 		  +-- subject_test.txt
 		  
-                  +-- X_test.txt
+          +-- X_test.txt
 				  
-                  +-- y_test.txt
+          +-- y_test.txt
 				  
 	    +-- /train
 		
@@ -29,7 +29,7 @@ The contents of the dataSet output.txt can be produced using the run_analysis() 
 		  
 		  +-- X_train.txt
 		  
-	          +-- y_train.txt
+	      +-- y_train.txt
 
 ##DataSet creation
 Use function run_analysis()
