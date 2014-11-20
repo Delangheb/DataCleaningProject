@@ -6,7 +6,7 @@ The contents of the dataSet output.txt can be produced using the run_analysis() 
 
 * the working directory should be set as follows :
 
-	working directory
+	+-- working directory
 	
 	    +-- run_analysis.R
 		
