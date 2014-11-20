@@ -6,17 +6,29 @@ The contents of the dataSet output.txt can be produced using the run_analysis() 
 
 * the working directory should be set as follows :
 	working directory
+	
 	    +-- run_analysis.R
+		
 	    +-- activity_labels.txt
+		
 	    +-- features.txt
+		
 	    +-- features_info.txt
+		
 	    +-- /test
+		
 		  +-- subject_test.txt
+		  
                   +-- X_test.txt
+				  
                   +-- y_test.txt
+				  
 	    +-- /train
+		
 		  +-- subject_train.txt
+		  
 		  +-- X_train.txt
+		  
 	          +-- y_train.txt
 
 ##DataSet creation
